@@ -1,0 +1,8 @@
+All types of Locators
+Driver.findelementBy.id
+Driver.findelementBy.name
+Driver.findelementBy.linktext
+Driver.findelementBy.partialtest
+Driver.findelementBy.class
+Driver.findelementBy.tagname
+Driver.findelementBy.partiallinktest
